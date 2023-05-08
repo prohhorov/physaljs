@@ -1,0 +1,25 @@
+{
+  "name": "Physaljs",
+	"short_name": "The typical Physalis fruit is similar to a firm tomato in texture, and like a sweet, tangy grape in flavor.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "32x32 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+	"background_color": "#000000"
+}

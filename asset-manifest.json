@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/physaljs/static/css/main.347e81cb.css",
+    "main.js": "/physaljs/static/js/main.ae2c486e.js",
+    "static/js/787.f5e14666.chunk.js": "/physaljs/static/js/787.f5e14666.chunk.js",
+    "static/media/logo.svg": "/physaljs/static/media/logo.5e7e50d60cbeb819cbfcad747d5ce709.svg",
+    "index.html": "/physaljs/index.html",
+    "main.347e81cb.css.map": "/physaljs/static/css/main.347e81cb.css.map",
+    "main.ae2c486e.js.map": "/physaljs/static/js/main.ae2c486e.js.map",
+    "787.f5e14666.chunk.js.map": "/physaljs/static/js/787.f5e14666.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.347e81cb.css",
+    "static/js/main.ae2c486e.js"
+  ]
+}
